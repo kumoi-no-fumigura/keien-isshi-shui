@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/keien-isshi-shui",
  "yomi": "けいえんいっししゅうい",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（他撰）",
+  "era": "嘉永2年（1849）7月序",
+  "author": "香川景樹（1768〜1843）",
+  "desc": "『桂園一枝』に漏れた景樹の歌を、門人が没後に拾い集めた拾遺。四季・恋・雑などに分ける。"
+ },
  "editions": [
   {
    "pid": "993382",
